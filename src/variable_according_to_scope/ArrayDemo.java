@@ -25,6 +25,10 @@ public class ArrayDemo {
             System.out.println("You are trying to insert more than 5 element");
         }
 
+        finally {
+            System.out.println("you have to execute me at all time ");
+        }
+
 
         // how to get value from a single index?
 
